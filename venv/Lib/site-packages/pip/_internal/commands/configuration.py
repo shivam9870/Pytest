@@ -154,8 +154,8 @@ class ConfigurationCommand(Command):
                 return None
             # Default to user, unless there's a site file.
             elif any(
-                os.path.exists(site_config_file)
-                for site_config_file in get_configuration_files()[kinds.SITE]
+                    os.path.exists(site_config_file)
+                    for site_config_file in get_configuration_files()[kinds.SITE]
             ):
                 return kinds.SITE
             else:

@@ -5,7 +5,7 @@ import pytest
 import numpy as np
 from numpy.testing import (
     assert_, assert_raises, assert_array_equal, HAS_REFCOUNT
-    )
+)
 
 
 class TestTake:

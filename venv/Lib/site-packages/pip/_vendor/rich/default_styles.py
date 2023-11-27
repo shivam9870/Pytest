@@ -163,7 +163,6 @@ DEFAULT_STYLES: Dict[str, Style] = {
     "iso8601.timezone": Style(color="yellow"),
 }
 
-
 if __name__ == "__main__":  # pragma: no cover
     import argparse
     import io
