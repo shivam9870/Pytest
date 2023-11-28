@@ -11,11 +11,9 @@ if TYPE_CHECKING:
     # pip compatibility with older patch versions of Python 3.6
     from typing import NoReturn
 
-
 # The recommended hash algo of the moment. Change this whenever the state of
 # the art changes; it won't hurt backward compatibility.
 FAVORITE_HASH = "sha256"
-
 
 # Names of hashlib algorithms allowed by the --hash option and ``pip hash``
 # Currently, those are the ones at least as collision-resistant as sha256.
