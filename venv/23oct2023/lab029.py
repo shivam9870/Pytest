@@ -14,7 +14,7 @@ def reverse_string(inp):
     return rev_str
 
 original_string="madam"
-revstr= reverse_string(original_string)
+revstr = reverse_string(original_string)
 print(revstr)
 
 if original_string==revstr:
