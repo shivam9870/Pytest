@@ -1,0 +1,9 @@
+Create Positive Booking testcase
+<class 'str'>
+<class 'dict'>
+<class 'dict'>
+{'bookingid': 952, 'booking': {'firstname': 'Jim', 'lastname': 'Brown', 'totalprice': 111, 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'}}
+Your name is : Jim Brown
+Your Booking ID is : 952
+0d3367900599b16
+{'Content-Type': 'application/json', 'Cookie': 'token=0d3367900599b16'}
