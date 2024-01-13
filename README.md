@@ -1,7 +1,7 @@
 ![oop--2-](https://github.com/shivam9870/Pytest/assets/65064937/33c574cc-acae-4b34-bca3-2ed7fef16d5f)
 
 
-# Pytest (Software Testing) 
+# Software Testing
 Here I'm Learning API Testing with Postman.
 Here you find the daily codes related to Python and the testing Framework.
 
